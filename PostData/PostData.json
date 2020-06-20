@@ -1,0 +1,38 @@
+﻿[
+  {
+    "title": "Under Construction1",
+    "description": "Content Coming Soon!",
+    "image": "img/hero/Construction.jpg",
+    "create": "2020-06-19",
+    "views": 1,
+    "category": "AI",
+    "urlPath": "Posts/Construction"
+  },
+  {
+    "title": "Under Construction",
+    "description": "Content Coming Soon!",
+    "image": "img/hero/Construction.jpg",
+    "create": "2020-06-19",
+    "views": 1,
+    "category": "Code",
+    "urlPath": "Posts/Construction"
+  },
+  {
+    "title": "Under Construction",
+    "description": "Content Coming Soon!",
+    "image": "img/hero/Construction.jpg",
+    "create": "2020-06-19",
+    "views": 1,
+    "category": "Cloud",
+    "urlPath": "Posts/Construction"
+  },
+  {
+    "title": "Under Construction",
+    "description": "Content Coming Soon!",
+    "image": "img/hero/Construction.jpg",
+    "create": "2020-06-19",
+    "views": 1,
+    "category": "Cloud",
+    "urlPath": "Posts/Construction"
+  }
+]

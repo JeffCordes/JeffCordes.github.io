@@ -5,7 +5,7 @@ html, body {
 }
 
 a, .btn-link {
-    color: #0366d6;
+    color: darkslategray;
 }
 
 .btn-primary {
@@ -20,6 +20,48 @@ app {
     flex-direction: column;
 }
 
+card-title .a {
+    color: darkgray;
+}
+
+.image-jumbotron {
+    background-image: url(../img/hero/codeBlur.jpg);
+    background-size: Cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+
+.image-construction {
+    background-image: url(../img/hero/Construction.jpg);
+}
+
+.image-code {
+    background-image: url(../img/hero/codeBlur.jpg);
+}
+
+
+.image-cloud {
+    background-image: url(../img/hero/cloud.jpg);
+}
+
+.image-AI {
+    background-image: url(../img/hero/AI.jpg);
+    color: white;
+    text-shadow: 3px 3px 5px blue;
+}
+
+.image-hot {
+    background-image: url(../img/hero/hot.jpg);
+    color: white;
+}
+
+.image-new {
+    background-image: url(../img/hero/new.jpg);
+    color: black;
+    text-shadow: 3px 3px 5px darkgray;
+}
+
 .top-row {
     height: 3.5rem;
     display: flex;
@@ -28,6 +70,8 @@ app {
 
 .main {
     flex: 1;
+    min-height: 100vh;
+    padding-bottom: 60px;
 }
 
     .main .top-row {
@@ -47,16 +91,32 @@ app {
 }
 
 .sidebar {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-color: black;
 }
 
+    .nav-icon {
+        position: relative;
+        display: inline-block;
+        line-height: 1;
+        top: -2px;
+        width: 2rem;
+    }
+
+    .nav-icon-img {
+        height: 20px;
+    }
+
     .sidebar .top-row {
-        background-color: rgba(0,0,0,0.4);
+        background-color: rgba(255,255,255,0.4);
     }
 
     .sidebar .navbar-brand {
         font-size: 1.1rem;
     }
+        .navbar-brand-image {
+            height: 35px;
+            padding-right: 10px;
+        }
 
     .sidebar .oi {
         width: 2rem;
@@ -117,6 +177,16 @@ app {
     color: red;
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: darkgray;
+    text-align: right;
+}
+
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
@@ -158,6 +228,7 @@ app {
     .sidebar {
         width: 250px;
         height: 100vh;
+        min-height: 550px;
         position: sticky;
         top: 0;
     }
