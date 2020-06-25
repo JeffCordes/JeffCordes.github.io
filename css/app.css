@@ -5,7 +5,7 @@ html, body {
 }
 
 a, .btn-link {
-    color: darkslategray;
+    color: darkviolet;
 }
 
 .btn-primary {
@@ -53,6 +53,11 @@ card-title .a {
 
 .image-hot {
     background-image: url(../img/hero/hot.jpg);
+    color: white;
+}
+
+.image-yolo {
+    background-image: url(../img/hero/yolodotnet.jpg);
     color: white;
 }
 
@@ -225,6 +230,10 @@ footer {
         flex-direction: row;
     }
 
+    .main {
+        max-width: calc(100% - 250px);
+    }
+
     .sidebar {
         width: 250px;
         height: 100vh;
@@ -237,6 +246,8 @@ footer {
         position: sticky;
         top: 0;
     }
+
+    ​
 
     .main > div {
         padding-left: 2rem !important;
