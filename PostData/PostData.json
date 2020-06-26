@@ -2,7 +2,7 @@
   {
     "title": "Yolo DotNet Intro",
     "description": "An Introduction to doing object detection with Yolo, dotnet, and ONNX",
-    "image": "img/hero/YoloDotNet.jpg",
+    "image": "img/hero/yolodotnet.jpg",
     "create": "2020-06-25",
     "views": 10,
     "category": "AI",
@@ -11,7 +11,7 @@
   {
     "title": "Yolo DotNet Setup",
     "description": "Setup and Apis for doing object detection with Yolo, dotnet, and ONNX",
-    "image": "img/hero/YoloDotNet.jpg",
+    "image": "img/hero/yolodotnet.jpg",
     "create": "2020-06-24",
     "views": 2,
     "category": "AI",
@@ -20,7 +20,7 @@
   {
     "title": "Yolo DotNet Data Prep",
     "description": "DataPreparation for doing object detection with Yolo, dotnet, and ONNX",
-    "image": "img/hero/YoloDotNet.jpg",
+    "image": "img/hero/yolodotnet.jpg",
     "create": "2020-06-23",
     "views": 2,
     "category": "AI",
@@ -29,7 +29,7 @@
   {
     "title": "Yolo DotNet Results",
     "description": "Processing results from object detection with Yolo, dotnet, and ONNX",
-    "image": "img/hero/YoloDotNet.jpg",
+    "image": "img/hero/yolodotnet.jpg",
     "create": "2020-06-22",
     "views": 2,
     "category": "AI",
@@ -38,7 +38,7 @@
   {
     "title": "Yolo DotNet Filtering",
     "description": "Filtering top results from object detection with Yolo, dotnet, and ONNX",
-    "image": "img/hero/YoloDotNet.jpg",
+    "image": "img/hero/yolodotnet.jpg",
     "create": "2020-06-21",
     "views": 2,
     "category": "AI",
