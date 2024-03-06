@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Welcome"
+image: /assets/images/welcome.jpg
+date:   2024-03-05 16:50:33 -0500
+tags: ["General"]
+author: Jeff Cordes
+comments: false
+---
+
+
+
+> It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers.
+
+*Patrick Rothfuss, The Wise Man's Fear*
+
+---
+
+Hi! I am Jeff, and I am glad you are here.  
+
+I consider myself a life-long learner who is always up for a challenge.  In my career I have moved between deeply technical roles and leadership roles.  Sometimes I find it hard to find the balance between the two because good leaders should have a deep understanding of the daily jobs of those they lead.  The best way I have found to balance the two, is to continue learning, be a technical evangelist, and always empower others.
+
+These are the three main things I want to achieve with this blog.
+
+1. Learning – Always be curious about what you do not know.  Seek out diverse perspectives, learn diverse skills, and find new ways to look old problems.
+2. Empower – Always empower others to do more than they can do today.  Share what you learn and always root for others to succeed.
+3. Influence – We all have things that are in our control, things that we can influence, and things that we cannot.  What sets great leaders apart is the ability to continually grow their influence and not worry about what they control.
+
+I hope you'll enjoy reading my blog and may even join me in learning something new.  Stay tuned for new content coming soon!

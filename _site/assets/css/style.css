@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Prata';
+  src: url('/assets/Adamina/Adamina-Regular.ttf') format('woff2');
+  font-display: swap;
+}
+
+@layer base {
+  html {
+    font-family: Prata, system-ui, sans-serif;
+  }
+}
+.fadeIn{
+  animation: fadeIn 0.5s forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0 ;}
+  to { opacity: 1;}
+}
+
+@keyframes fadeOut {
+  from { opacity: 1;}
+  to { opacity: 0;}
+}
+

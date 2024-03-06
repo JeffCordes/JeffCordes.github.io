@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-06T12:16:57-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jeff’s Blog</title><subtitle>This site is a blog by Jeff Cordes about software development, AI, technology, and leadership.</subtitle><entry><title type="html">Welcome</title><link href="http://localhost:4000/2024/03/05/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2024-03-05T16:50:33-05:00</published><updated>2024-03-05T16:50:33-05:00</updated><id>http://localhost:4000/2024/03/05/welcome</id><content type="html" xml:base="http://localhost:4000/2024/03/05/welcome.html"><![CDATA[<blockquote>
+  <p>It’s the questions we can’t answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he’ll look for his own answers.</p>
+</blockquote>
+
+<p><em>Patrick Rothfuss, The Wise Man’s Fear</em></p>
+
+<hr />
+
+<p>Hi! I am Jeff, and I am glad you are here.</p>
+
+<p>I consider myself a life-long learner who is always up for a challenge.  In my career I have moved between deeply technical roles and leadership roles.  Sometimes I find it hard to find the balance between the two because good leaders should have a deep understanding of the daily jobs of those they lead.  The best way I have found to balance the two, is to continue learning, be a technical evangelist, and always empower others.</p>
+
+<p>These are the three main things I want to achieve with this blog.</p>
+
+<ol>
+  <li>Learning – Always be curious about what you do not know.  Seek out diverse perspectives, learn diverse skills, and find new ways to look old problems.</li>
+  <li>Empower – Always empower others to do more than they can do today.  Share what you learn and always root for others to succeed.</li>
+  <li>Influence – We all have things that are in our control, things that we can influence, and things that we cannot.  What sets great leaders apart is the ability to continually grow their influence and not worry about what they control.</li>
+</ol>
+
+<p>I hope you’ll enjoy reading my blog and may even join me in learning something new.  Stay tuned for new content coming soon!</p>]]></content><author><name>Jeff Cordes</name></author><category term="General" /><summary type="html"><![CDATA[It’s the questions we can’t answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he’ll look for his own answers.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/welcome.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/welcome.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
